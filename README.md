@@ -1,2 +1,5 @@
-# homelab
-Script and functions for homelab environment
+# BISINET Home Lab
+
+Scripts, functions and anything related to home lab.
+
+
